@@ -1,50 +1,44 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="locey — Blockchain Infrastructure / DEX / AI" />
+  <img src="assets/terminal-header.svg" width="100%" alt="locey — Build systems. Explore protocols." />
 </p>
 
 <p align="center">
-  <a href="https://www.locey.fun/"><img src="https://img.shields.io/badge/Portfolio-locey.fun-64FFDA?style=for-the-badge&amp;labelColor=111827" alt="Portfolio" /></a>
-  <a href="mailto:locey5201314@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-C4B5FD?style=for-the-badge&amp;labelColor=111827" alt="Email" /></a>
+  <a href="https://www.locey.fun/"><img src="https://img.shields.io/badge/PORTFOLIO-locey.fun-B6F36A?style=flat-square&amp;labelColor=142017&amp;color=B6F36A" alt="Portfolio" /></a>
+  <a href="mailto:locey5201314@gmail.com"><img src="https://img.shields.io/badge/CONTACT-email-B6F36A?style=flat-square&amp;labelColor=142017&amp;color=B6F36A" alt="Email" /></a>
 </p>
 
-### Systems, protocols & experiments
+I build blockchain infrastructure, explore trading systems, and share experiments in protocols and applied AI.
 
-I'm **locey**. I build blockchain infrastructure, explore trading systems, and turn ideas into open-source tools. My interests span low-level systems, DeFi protocols, and applied AI.
+<p><img src="assets/terminal-focus.svg" width="100%" alt="Technical interests: blockchain, trading systems, systems engineering, and applied AI" /></p>
 
-### What I work on
+<p><img src="assets/terminal-stack.svg" width="100%" alt="Languages and infrastructure toolkit" /></p>
 
-- **Blockchain infrastructure** — Go-Ethereum, EVM execution, consensus integration, state synchronization, snapshots, and replay.
-- **Trading & DeFi** — order books, smart routing, margin and settlement, liquidation, oracles, and cross-chain monitoring.
-- **Systems engineering** — Linux, Nginx, networking, event-driven backends, and performance profiling.
-- **Applied AI** — agents, tool integrations, DeFi automation, and engineering workflows.
-
-### Engineering toolkit
+### `~/projects` — selected public work
 
 <p>
-  <img src="assets/stack.svg" width="100%" alt="Go, Rust, Solidity, C/C++, Python, TypeScript, Linux, Nginx, Kafka, PostgreSQL, MySQL, Redis, Docker, Git" />
+  <a href="https://github.com/locey/polymarket_ai"><img src="assets/project-polymarket.svg" width="49%" alt="Polymarket AI — prediction-market vault experiments" /></a>
+  <a href="https://github.com/locey/AlanSwap"><img src="assets/project-alanswap.svg" width="49%" alt="AlanSwap — smart routing exchange project" /></a>
+</p>
+<p>
+  <a href="https://github.com/locey/bridge_monitor"><img src="assets/project-bridge.svg" width="49%" alt="Bridge Monitor — cross-chain activity monitoring" /></a>
+  <a href="https://github.com/locey/Motor-AI-Fe"><img src="assets/project-motor.svg" width="49%" alt="Motor AI — engineering workflows and automation" /></a>
 </p>
 
-### Selected public projects
+<details>
+<summary><b>Read project descriptions</b></summary>
 
-#### [Polymarket AI →](https://github.com/locey/polymarket_ai)
-An experimental AI-assisted prediction-market vault project combining smart contracts, market analysis, and trading automation.
+- [Polymarket AI](https://github.com/locey/polymarket_ai): experimental AI-assisted prediction-market vault, combining contracts, market analysis, and trading automation.
+- [AlanSwap](https://github.com/locey/AlanSwap): smart routing exchange project with backend, frontend, and contract components.
+- [Bridge Monitor](https://github.com/locey/bridge_monitor): a Go and PostgreSQL service for monitoring cross-chain bridge activity.
+- [Motor AI](https://github.com/locey/Motor-AI-Fe): AI-assisted tools and automation for motor design workflows.
 
-#### [AlanSwap →](https://github.com/locey/AlanSwap)
-An exchange project with smart routing, organized into Go backend, frontend, and contract components.
+</details>
 
-#### [Bridge Monitor →](https://github.com/locey/bridge_monitor)
-A cross-chain data monitoring service for bridge activity, built with Go and PostgreSQL.
-
-#### [Motor AI →](https://github.com/locey/Motor-AI-Fe)
-An AI workflow exploring tools and automation for motor design.
-
-### GitHub activity
+### `$ git insights`
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=locey&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=64FFDA&amp;icon_color=60A5FA&amp;text_color=C9D1D9&amp;hide_rank=true" alt="GitHub account statistics" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=locey&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=64FFDA&amp;text_color=C9D1D9&amp;exclude_repo=empty" alt="Languages across public repositories; not a measure of expertise" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=locey&amp;show_icons=true&amp;hide_border=true&amp;bg_color=090D0B&amp;title_color=B6F36A&amp;icon_color=B6F36A&amp;text_color=A9B7AD&amp;hide_rank=true&amp;hide=commits,contribs" alt="Public GitHub statistics excluding commit and contribution totals" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=locey&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=090D0B&amp;title_color=B6F36A&amp;text_color=A9B7AD&amp;exclude_repo=empty" alt="Language distribution in public repositories" />
 </p>
 
----
-
-<p align="center"><b>From consensus to settlement.</b><br /><sub>Blockchain infrastructure · Trading systems · Applied AI</sub></p>
+<p><img src="assets/terminal-footer.svg" width="100%" alt="Keep building" /></p>
