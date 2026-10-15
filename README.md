@@ -7,21 +7,16 @@
   <a href="mailto:locey5201314@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-C4B5FD?style=for-the-badge&amp;labelColor=111827" alt="Email" /></a>
 </p>
 
-### Building the systems behind the trade
+### Systems, protocols & experiments
 
-I'm **locey**, a senior blockchain engineer working across chain nodes, native DEX engines, smart contracts, and backend infrastructure.
-
-- **Now · BitMart** — Go-Ethereum node extensions, EVM / DEX execution, Oracle, and Keeper infrastructure for spot, perpetual futures, and TradFi markets.
-- **Previously · PumpBTC** — core development for a project supporting **23 chains, 300K users, and $500M+ TVL**; cross-chain monitoring, Rust SDKs, and staking contracts.
-- **Systems foundation · ZTE** — Nginx / Linux / TCP optimization, with **50%+ improvement in single-server bandwidth**.
-- **Education** — M.Sc., Zhejiang University · B.Eng., Xi'an Jiaotong University.
-- **Also exploring** — AI agents, DeFi automation, and AI-assisted engineering.
+I'm **locey**. I build blockchain infrastructure, explore trading systems, and turn ideas into open-source tools. My interests span low-level systems, DeFi protocols, and applied AI.
 
 ### What I work on
 
-**Chain infrastructure** · consensus integration · deterministic execution · cross-engine state · snapshot / replay recovery
-**Trading systems** · order book matching · margin & settlement · liquidation / ADL · multi-source pricing
-**Application infrastructure** · cross-chain monitoring · event-driven backends · SDKs · AI workflows
+- **Blockchain infrastructure** — Go-Ethereum, EVM execution, consensus integration, state synchronization, snapshots, and replay.
+- **Trading & DeFi** — order books, smart routing, margin and settlement, liquidation, oracles, and cross-chain monitoring.
+- **Systems engineering** — Linux, Nginx, networking, event-driven backends, and performance profiling.
+- **Applied AI** — agents, tool integrations, DeFi automation, and engineering workflows.
 
 ### Engineering toolkit
 
@@ -31,6 +26,9 @@ I'm **locey**, a senior blockchain engineer working across chain nodes, native D
 
 ### Selected public projects
 
+#### [Polymarket AI →](https://github.com/locey/polymarket_ai)
+An experimental AI-assisted prediction-market vault project combining smart contracts, market analysis, and trading automation.
+
 #### [AlanSwap →](https://github.com/locey/AlanSwap)
 An exchange project with smart routing, organized into Go backend, frontend, and contract components.
 
@@ -38,10 +36,7 @@ An exchange project with smart routing, organized into Go backend, frontend, and
 A cross-chain data monitoring service for bridge activity, built with Go and PostgreSQL.
 
 #### [Motor AI →](https://github.com/locey/Motor-AI-Fe)
-An AI workflow for motor design, connecting my electrical engineering background with software development.
-
-#### [Personal CV →](https://github.com/locey/mycv)
-My English engineering portfolio, built with Next.js and TypeScript. [View the live site](https://www.locey.fun/).
+An AI workflow exploring tools and automation for motor design.
 
 ### GitHub activity
 
