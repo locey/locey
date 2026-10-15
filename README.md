@@ -51,8 +51,6 @@ My English engineering portfolio, built with Next.js and TypeScript. [View the l
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=locey&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=64FFDA&amp;text_color=C9D1D9&amp;exclude_repo=empty" alt="Languages across public repositories; not a measure of expertise" />
 </p>
 
-<sub>Cards reflect GitHub account activity, including experiments and automation; contribution counts are not a measure of engineering output. The `empty` repository contains synthetic contribution-graph experiments. Commercial project source code is not included here.</sub>
-
 ---
 
 <p align="center"><b>From consensus to settlement.</b><br /><sub>Blockchain infrastructure · Trading systems · Applied AI</sub></p>
