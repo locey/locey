@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Jun Luo — Blockchain Infrastructure Engineer</title>
+  <desc id="desc">Dark navy banner with mint typography and a connected execution pipeline for consensus, EVM, DEX, Oracle, and Keeper.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#14243A"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#6F93BC" stroke-opacity=".08"/></pattern>
+    <linearGradient id="line"><stop stop-color="#64FFDA"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <rect x="44" y="49" width="5" height="241" rx="2" fill="#64FFDA"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="79" font-size="13" letter-spacing="4" fill="#64FFDA">LOCEY / JUN LUO</text>
+    <text x="69" y="143" font-size="53" font-weight="700" fill="#F0F6FC">Build the core.</text>
+    <text x="69" y="203" font-size="53" font-weight="700" fill="#F0F6FC">Connect the chain.</text>
+    <text x="72" y="245" font-size="17" fill="#A7B8CD">Blockchain infrastructure · Trading systems · Applied AI</text>
+    <text x="72" y="281" font-size="13" letter-spacing="2" fill="#64FFDA">GO / RUST / SOLIDITY / C++</text>
+    <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".65">
+      <path d="M785 169H848M948 169H1010M899 113V75H1058V113M899 225V264H1058V225"/>
+      <path d="M1058 113V75M1058 225V264"/>
+    </g>
+    <g fill="#101E30" stroke="#34536F">
+      <rect x="683" y="138" width="102" height="62" rx="12"/>
+      <rect x="848" y="113" width="100" height="112" rx="14"/>
+      <rect x="1010" y="113" width="100" height="112" rx="14"/>
+      <rect x="952" y="48" width="100" height="45" rx="10"/>
+      <rect x="952" y="242" width="100" height="45" rx="10"/>
+    </g>
+    <g text-anchor="middle">
+      <text x="734" y="174" font-size="13" fill="#CBD5E1">CONSENSUS</text>
+      <text x="898" y="168" font-size="23" font-weight="700" fill="#64FFDA">EVM</text>
+      <text x="898" y="191" font-size="11" fill="#94A3B8">EXECUTION</text>
+      <text x="1060" y="168" font-size="23" font-weight="700" fill="#60A5FA">DEX</text>
+      <text x="1060" y="191" font-size="11" fill="#94A3B8">SETTLEMENT</text>
+      <text x="1002" y="76" font-size="12" fill="#C4B5FD">ORACLE</text>
+      <text x="1002" y="270" font-size="12" fill="#C4B5FD">KEEPER</text>
+    </g>
+    <circle cx="817" cy="169" r="4" fill="#64FFDA"/>
+    <circle cx="979" cy="169" r="4" fill="#60A5FA"/>
+  </g>
+</svg>
