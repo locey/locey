@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Jun Luo — Blockchain Infrastructure / DEX / AI" />
+  <img src="assets/header.svg" width="100%" alt="locey — Blockchain Infrastructure / DEX / AI" />
 </p>
 
 <p align="center">
   <a href="https://www.locey.fun/"><img src="https://img.shields.io/badge/Portfolio-locey.fun-64FFDA?style=for-the-badge&amp;labelColor=111827" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jun-luo-5004a726b/"><img src="https://img.shields.io/badge/LinkedIn-Jun_Luo-60A5FA?style=for-the-badge&amp;labelColor=111827" alt="LinkedIn" /></a>
   <a href="mailto:locey5201314@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-C4B5FD?style=for-the-badge&amp;labelColor=111827" alt="Email" /></a>
 </p>
 
 ### Building the systems behind the trade
 
-I'm **Jun Luo (locey)**, a senior blockchain engineer working across chain nodes, native DEX engines, smart contracts, and backend infrastructure.
+I'm **locey**, a senior blockchain engineer working across chain nodes, native DEX engines, smart contracts, and backend infrastructure.
 
 - **Now · BitMart** — Go-Ethereum node extensions, EVM / DEX execution, Oracle, and Keeper infrastructure for spot, perpetual futures, and TradFi markets.
 - **Previously · PumpBTC** — core development for a project supporting **23 chains, 300K users, and $500M+ TVL**; cross-chain monitoring, Rust SDKs, and staking contracts.

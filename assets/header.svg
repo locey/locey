@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Jun Luo — Blockchain Infrastructure Engineer</title>
+  <title id="title">locey — Blockchain Infrastructure Engineer</title>
   <desc id="desc">Dark navy banner with mint typography and a connected execution pipeline for consensus, EVM, DEX, Oracle, and Keeper.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#14243A"/></linearGradient>
@@ -10,7 +10,7 @@
   <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
   <rect x="44" y="49" width="5" height="241" rx="2" fill="#64FFDA"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="72" y="79" font-size="13" letter-spacing="4" fill="#64FFDA">LOCEY / JUN LUO</text>
+    <text x="72" y="79" font-size="13" letter-spacing="4" fill="#64FFDA">LOCEY / ENGINEER</text>
     <text x="69" y="143" font-size="53" font-weight="700" fill="#F0F6FC">Build the core.</text>
     <text x="69" y="203" font-size="53" font-weight="700" fill="#F0F6FC">Connect the chain.</text>
     <text x="72" y="245" font-size="17" fill="#A7B8CD">Blockchain infrastructure · Trading systems · Applied AI</text>
