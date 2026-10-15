@@ -41,8 +41,8 @@ An AI workflow exploring tools and automation for motor design.
 ### GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=locey&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=64FFDA&amp;icon_color=60A5FA&amp;text_color=C9D1D9&amp;hide_rank=true" alt="GitHub account statistics" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=locey&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=64FFDA&amp;text_color=C9D1D9&amp;exclude_repo=empty" alt="Languages across public repositories; not a measure of expertise" />
+  <img width="49%" align="top" src="https://github-stats-extended.vercel.app/api?username=locey&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=64FFDA&amp;icon_color=60A5FA&amp;text_color=C9D1D9&amp;hide_rank=true&amp;card_width=400&amp;line_height=20" alt="GitHub account statistics" />
+  <img width="49%" align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=locey&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=64FFDA&amp;text_color=C9D1D9&amp;exclude_repo=empty&amp;card_width=400" alt="Languages across public repositories; not a measure of expertise" />
 </p>
 
 ---
